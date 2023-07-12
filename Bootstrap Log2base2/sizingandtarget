@@ -1,0 +1,7 @@
+ Break Points    	Class     Dimensions    Target
+Extra small        (none)       <567 px     (Mobile Phones)
+Small                sm         >=576 px    (Tablets)
+Medium               md         >=786 px    (old monitor and small laptop)
+Large                lg         >=992 px    (Laptop)
+Extra Large          xl 	    >=1200 px   (Desktop)
+Extra Extra Large    xxl        >=1400 px   (Flatscreen TV)
